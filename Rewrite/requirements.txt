@@ -1,4 +1,4 @@
 imageio==1.6
 Pillow==3.4.2
-scipy==0.18.1
+scipy==1.10.0
 numpy==1.11.1
